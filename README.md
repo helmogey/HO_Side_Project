@@ -5,7 +5,7 @@
 
 
 In mobile communication the mobile and base station take the decision to excute the Hand OVER ( HO ) depending on many parameters and many ways
-i made simulation to get data to train the model in i useed the following features:
+i made simulation to get data to train the model on, i useed the following features:
 
 1- average RSRP ( Reference Signal Received Power )  from the serving cell in the last 20 seconds
 2- average RSRP ( Reference Signal Received Power ) from the target cell in the last 20 seconds
